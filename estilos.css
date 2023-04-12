@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: #b72929;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    background: rgb(170, 115, 51);
+    box-shadow: 0px 2px 20px 0px rgba(173, 18, 18, 0.5);
+    color: rgb(177, 47, 47);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -30,7 +30,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #ae2424;
     margin: 0 auto;
 }
 
@@ -42,5 +42,3 @@ body
 {
     padding: 1em;
 }
-
-body{color:#333;text-align:center;font-family:arial;font-size:16px;margin:0;padding:0}#container{width:70%;padding:1em;text-align:left;border:1px solid #ddd;margin:0 auto}#container h1{font-size:20px}
